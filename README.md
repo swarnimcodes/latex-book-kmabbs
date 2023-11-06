@@ -8,4 +8,5 @@ Year: 1914
 
 ## Distribution
 Lenin Internet Archive (2008). You may freely copy, distribute, display and perform this work; as well as make derivative and commercial works.
-Credits: Marxists Internet Archive
+
+Credits: [Marxists Internet Archive](https://www.marxists.org/archive/lenin/works/1914/granat/index.htm)
